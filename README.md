@@ -58,24 +58,24 @@
 
 | Project | Description | Tech Used |
 |---|---|---|
-| 🏨 **[HostelOS](https://hostel-os-tau.vercel.app)** | A comprehensive and modern operating system designed for hostel management. | `JavaScript`, `Web Tech` |
-| 🪑 **[IKEA-CASESTUDY](https://vaccasestudy.vercel.app)** | A beautifully crafted UI/UX implementation and case study mimicking IKEA's design aesthetics. | `JavaScript`, `Frontend` |
-| 🛡️ **[Payshield-AI](https://github.com/aseesmakkar45/Payshield-AI)** | An advanced system leveraging AI to monitor and secure payment transactions. | `Python`, `AI/ML` |
-| 🪐 **[solar-system-simulator](https://github.com/aseesmakkar45/solar-system-simulator)** | A simulation of Earth's orbit around the Sun built as an astrophysics learning project. | `Python` |
-| 🚀 **[HACK4DELHI](https://github.com/aseesmakkar45/HACK4DELHI-CodingKDhurandar)** | Competitive hackathon project focusing on real-world problem solving. | `Python`, `Hackathon` |
-| 🧠 **[Synapse](https://github.com/aseesmakkar45/Synapse)** | A complex JavaScript project for specialized web integrations. | `JavaScript` |
-| 🌐 **[WEBTEMPLATES](https://github.com/aseesmakkar45/WEBTEMPLATES)** | A curated collection of highly customizable web development templates and components. | `JavaScript`, `HTML` |
+| 🏨 **[HostelOS](https://hostel-os-tau.vercel.app)** | A full-stack, AI-powered hostel management platform featuring real-time biometric gate entry and warden analytics. | `Next.js`, `TensorFlow.js` |
+| 🪑 **[IKEA-CASESTUDY](https://vaccasestudy.vercel.app)** | A beautifully crafted UI/UX web implementation and design case study mimicking IKEA's aesthetics. | `JavaScript`, `Frontend` |
+| 🛡️ **[Payshield-AI](https://github.com/aseesmakkar45/Payshield-AI)** | Real-time fraud detection and prevention system integrated into UPI, leveraging ML models and graph engines. | `Python`, `AI/ML` |
+| 🪐 **[solar-system-simulator](https://github.com/aseesmakkar45/solar-system-simulator)** | A Python-based simulation of Earth's orbit around the Sun built as an astrophysics learning project. | `Python` |
+| 🚀 **[HACK4DELHI](https://github.com/aseesmakkar45/HACK4DELHI-CodingKDhurandar)** | A next-generation AI-powered railway monitoring and safety alert system built for Hack4Delhi. | `Python`, `AI` |
+| 🧠 **[Synapse](https://github.com/aseesmakkar45/Synapse)** | CricSenseAI — An AI-powered cricket fielding analytics platform utilizing Computer Vision and Machine Learning. | `React`, `Python` |
+| 🌐 **[WEBTEMPLATES](https://github.com/aseesmakkar45/WEBTEMPLATES)** | A curated collection of highly customizable web development templates and UI components. | `JavaScript`, `HTML` |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/aseesmakkar45?base.header=false&base.activity=true&base.repositories=true&base.metadata=true" alt="Asees's GitHub Metrics" width="80%" />
+  <img src="https://metrics.lecoq.io/aseesmakkar45?base.header=false&base.activity=true&base.repositories=false&base.metadata=false" alt="Asees's GitHub Metrics" width="450" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aseesmakkar45&theme=tokyonight&hide_border=true&background=0D1117" alt="Asees's GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aseesmakkar45&theme=tokyonight&hide_border=true&background=0D1117" alt="Asees's GitHub Streak" width="450" />
 </p>
 
 ---
