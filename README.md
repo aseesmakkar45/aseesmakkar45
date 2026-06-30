@@ -16,7 +16,7 @@
 - 🌱 Currently, I'm sharpening my skills in **Full-Stack Development** while exploring the intersections of Web Tech and AI.
 - ⚡ Fun fact: I love bringing ideas to life at Hackathons and crafting immersive digital experiences.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🚀 Tech Stack & Tools
 
@@ -54,7 +54,7 @@
 </p>
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📂 Featured Projects
 
@@ -68,7 +68,7 @@
 | 🧠 **[Synapse](https://github.com/aseesmakkar45/Synapse)** | CricSenseAI — An AI-powered cricket fielding analytics platform utilizing Computer Vision and Machine Learning. | `React`, `Python` |
 | 🌐 **[WEBTEMPLATES](https://github.com/aseesmakkar45/WEBTEMPLATES)** | A curated collection of highly customizable web development templates and UI components. | `JavaScript`, `HTML` |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📊 GitHub Analytics
 
@@ -83,14 +83,24 @@
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/aseesmakkar45?base.header=false&base.activity=true&base.repositories=false&base.metadata=false" alt="Asees's GitHub Metrics" width="450" />
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://metrics.lecoq.io/aseesmakkar45?base.header=false&base.activity=true&base.repositories=false&base.metadata=false" alt="Asees's GitHub Metrics" width="400" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aseesmakkar45&theme=tokyonight&hide_border=true&background=0D1117" alt="Asees's GitHub Streak" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseesmakkar45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aseesmakkar45&theme=tokyonight&hide_border=true&background=0D1117" alt="Asees's GitHub Streak" width="450" />
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📫 Connect with me!
 
