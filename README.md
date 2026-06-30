@@ -92,11 +92,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aseesmakkar45&theme=tokyonight&hide_border=true&background=0D1117" alt="Asees's GitHub Streak" width="400" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseesmakkar45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="400" />
-      </td>
-    </tr>
+
   </table>
 </div>
 
