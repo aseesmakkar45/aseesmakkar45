@@ -7,6 +7,8 @@
 </p>
 
 ### 👨‍💻 About Me
+<img align="right" width="150" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="Floating Astronaut" />
+
 - 🎓 I’m a **Computer Science and Engineering (CSE)** student at **Delhi Technological University (DTU)**.
 - 🤖 I'm eager to dive deeper into **Robotics** and am currently actively working on projects in this domain.
 - 🌌 Beyond the screen, I'm a curious **Space Enthusiast** with a profound interest in **Astrophysics**.
@@ -69,6 +71,16 @@
 ---
 
 ### 📊 GitHub Analytics
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aseesmakkar45/aseesmakkar45/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aseesmakkar45/aseesmakkar45/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aseesmakkar45/aseesmakkar45/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://metrics.lecoq.io/aseesmakkar45?base.header=false&base.activity=true&base.repositories=false&base.metadata=false" alt="Asees's GitHub Metrics" width="450" />
