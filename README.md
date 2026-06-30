@@ -61,19 +61,19 @@
 | 🛡️ **[Payshield-AI](https://github.com/aseesmakkar45/Payshield-AI)** | An advanced system leveraging AI to monitor and secure payment transactions. | `Python`, `AI/ML` |
 | 🪐 **[solar-system-simulator](https://github.com/aseesmakkar45/solar-system-simulator)** | A simulation of Earth's orbit around the Sun built as an astrophysics learning project. | `Python` |
 | 🚀 **[HACK4DELHI](https://github.com/aseesmakkar45/HACK4DELHI-CodingKDhurandar)** | Competitive hackathon project focusing on real-world problem solving. | `Python`, `Hackathon` |
-| 🌐 **[Synapse & WEBTEMPLATES](https://github.com/aseesmakkar45/Synapse)** | A curated collection of highly customizable web development templates and components. | `JavaScript`, `HTML` |
+| 🧠 **[Synapse](https://github.com/aseesmakkar45/Synapse)** | A complex JavaScript project for specialized web integrations. | `JavaScript` |
+| 🌐 **[WEBTEMPLATES](https://github.com/aseesmakkar45/WEBTEMPLATES)** | A curated collection of highly customizable web development templates and components. | `JavaScript`, `HTML` |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aseesmakkar45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Asees's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aseesmakkar45&theme=tokyonight&hide_border=true&background=0D1117" alt="Asees's GitHub Streak" width="48%" />
+  <img src="https://metrics.lecoq.io/aseesmakkar45?base.header=false&base.activity=true&base.repositories=true&base.metadata=true" alt="Asees's GitHub Metrics" width="80%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseesmakkar45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aseesmakkar45&theme=tokyonight&hide_border=true&background=0D1117" alt="Asees's GitHub Streak" width="60%" />
 </p>
 
 ---
