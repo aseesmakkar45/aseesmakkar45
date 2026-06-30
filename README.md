@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Asees+Makkar+👋;Full-Stack+Web+Developer+💻;AI+%26+Tech+Enthusiast+🚀;Hackathon+Competitor+🏆&center=true&width=600&height=60&color=36BCF7&vCenter=true&size=30&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Asees+Makkar+👋;CSE+Undergrad+@+DTU+🎓;Robotics+%26+Space+Enthusiast+🌌;AI+%26+ML+Explorer+🤖;Full-Stack+Web+Developer+💻&center=true&width=600&height=60&color=36BCF7&vCenter=true&size=30&pause=1000" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,10 +7,12 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building robust web applications and exploring the realms of **Artificial Intelligence**.
-- 🌱 I’m constantly learning new technologies to sharpen my **Full-Stack Development** skills.
-- 💬 Ask me about **JavaScript, Python, Web Development, and UI/UX**.
-- ⚡ Fun fact: I love bringing ideas to life at Hackathons and crafting digital experiences.
+- 🎓 I’m a **Computer Science and Engineering (CSE)** student at **Delhi Technological University (DTU)**.
+- 🤖 I'm eager to dive deeper into **Robotics** and am currently actively working on projects in this domain.
+- 🌌 Beyond the screen, I'm a curious **Space Enthusiast** with a profound interest in **Astrophysics**.
+- 🧠 I have a strong passion for **Artificial Intelligence and Machine Learning**, constantly exploring how they can solve complex problems.
+- 🌱 Currently, I'm sharpening my skills in **Full-Stack Development** while exploring the intersections of Web Tech and AI.
+- ⚡ Fun fact: I love bringing ideas to life at Hackathons and crafting immersive digital experiences.
 
 ---
 
