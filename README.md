@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Animation" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="400"/>
 </p>
 
 ### 👨‍💻 About Me
